@@ -7,7 +7,7 @@
 
 ``` xml
 <dependency>
-	<groupId>com.github.hiwepy</groupId>
+	<groupId>io.github.easy4j</groupId>
 	<artifactId>httpconn</artifactId>
 	<version>1.0.0.RELEASE</version>
 </dependency>
