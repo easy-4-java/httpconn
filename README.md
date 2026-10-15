@@ -9,6 +9,6 @@
 <dependency>
 	<groupId>io.github.easy4j</groupId>
 	<artifactId>httpconn</artifactId>
-	<version>1.0.0.RELEASE</version>
+	<version>1.0.x.20260630-SNAPSHOT</version>
 </dependency>
 ```
